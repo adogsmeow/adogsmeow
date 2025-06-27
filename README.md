@@ -1,16 +1,15 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://files.catbox.moe/b70xa7.gif" alt="image description" title="image description or alt text !">
+<p align="center">
 
-<!--
-**adogsmeow/adogsmeow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> la la la base for text so you can have it centered !! <p align="center">
 
-Here are some ideas to get you started:
+  <img src="https://komarev.com/ghpvc/?username=adogsmeow">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> link base !! <a href="https://actual-link-name.com">whatever you wanna have as the link text</a>
+
+https://github.com/antonkomarev/github-profile-views-counter?tab=readme-ov-file#make-it-personal
+
+if youd like to customize the profile veiws counter heh
+
+https://emojicombos.com/ for bios or symbols !!!
