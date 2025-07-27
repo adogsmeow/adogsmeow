@@ -6,8 +6,6 @@
 
   <img src="https://komarev.com/ghpvc/?username=adogsmeow">
 
-<p align="center"> <a href="https://github.com/greenbeanx3">𓂃﹕𐂯 ⸝⸝ MY LOVE !! 𓏵 . </a>
-
 <p align="center"> ᯓ✦∘˙ 14 yrs old , Aspen H☆rt , ☆nti-harassment♡  <p align="center">
   
 <p align="center">
