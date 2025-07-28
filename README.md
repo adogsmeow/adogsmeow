@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://files.catbox.moe/b70xa7.gif" alt="" title="gif made by me, NF2U !!">
+  <img src="https://files.catbox.moe/t51739.gif" alt="" title="gif made by me, NF2U !!">
 <p align="center">
 
 <p align="center"> ᯓ★ "I'm the living legend of rock, baby!" <p align="center">
